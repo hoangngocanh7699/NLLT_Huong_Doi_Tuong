@@ -1,0 +1,13 @@
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.exe
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.deps.json
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.runtimeconfig.json
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.runtimeconfig.dev.json
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.dll
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.pdb
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.csprojAssemblyReference.cache
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.csproj.CoreCompileInputs.cache
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.AssemblyInfoInputs.cache
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.AssemblyInfo.cs
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.dll
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.pdb
+D:\NguyenLiDoiTuong\StackQueue\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\bin\Debug\netcoreapp3.1\DaThuc.exe
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\bin\Debug\netcoreapp3.1\DaThuc.deps.json
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\bin\Debug\netcoreapp3.1\DaThuc.runtimeconfig.json
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\bin\Debug\netcoreapp3.1\DaThuc.runtimeconfig.dev.json
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\bin\Debug\netcoreapp3.1\DaThuc.dll
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\bin\Debug\netcoreapp3.1\DaThuc.pdb
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\obj\Debug\netcoreapp3.1\DaThuc.csprojAssemblyReference.cache
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\obj\Debug\netcoreapp3.1\DaThuc.csproj.CoreCompileInputs.cache
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\obj\Debug\netcoreapp3.1\DaThuc.AssemblyInfoInputs.cache
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\obj\Debug\netcoreapp3.1\DaThuc.AssemblyInfo.cs
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\obj\Debug\netcoreapp3.1\DaThuc.dll
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\obj\Debug\netcoreapp3.1\DaThuc.pdb
+D:\NguyenLiDoiTuong\DaThuc\DaThuc\obj\Debug\netcoreapp3.1\DaThuc.genruntimeconfig.cache

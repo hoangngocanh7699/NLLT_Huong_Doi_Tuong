@@ -1,0 +1,4 @@
+D:\NguyenLiDoiTuong\Lab9\SinhVien\obj\Debug\netcoreapp3.1\SinhVien.csprojAssemblyReference.cache
+D:\NguyenLiDoiTuong\Lab9\SinhVien\obj\Debug\netcoreapp3.1\SinhVien.csproj.CoreCompileInputs.cache
+D:\NguyenLiDoiTuong\Lab9\SinhVien\obj\Debug\netcoreapp3.1\SinhVien.AssemblyInfoInputs.cache
+D:\NguyenLiDoiTuong\Lab9\SinhVien\obj\Debug\netcoreapp3.1\SinhVien.AssemblyInfo.cs
