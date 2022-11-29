@@ -1,1 +1,1 @@
-# Tổng Hợp Các bài LAB Môn Nguyên Lí Đối Tượng
+# Tổng Hợp Các bài LAB Môn Nguyên Lí Lập Trình Hướng Đối Tượng
