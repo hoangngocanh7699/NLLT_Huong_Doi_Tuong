@@ -1,0 +1,13 @@
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\bin\Debug\netcoreapp3.1\Bai4Lab10.exe
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\bin\Debug\netcoreapp3.1\Bai4Lab10.deps.json
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\bin\Debug\netcoreapp3.1\Bai4Lab10.runtimeconfig.json
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\bin\Debug\netcoreapp3.1\Bai4Lab10.runtimeconfig.dev.json
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\bin\Debug\netcoreapp3.1\Bai4Lab10.dll
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\bin\Debug\netcoreapp3.1\Bai4Lab10.pdb
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\obj\Debug\netcoreapp3.1\Bai4Lab10.csprojAssemblyReference.cache
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\obj\Debug\netcoreapp3.1\Bai4Lab10.csproj.CoreCompileInputs.cache
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\obj\Debug\netcoreapp3.1\Bai4Lab10.AssemblyInfoInputs.cache
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\obj\Debug\netcoreapp3.1\Bai4Lab10.AssemblyInfo.cs
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\obj\Debug\netcoreapp3.1\Bai4Lab10.dll
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\obj\Debug\netcoreapp3.1\Bai4Lab10.pdb
+D:\NguyenLiDoiTuong\Bai4Lab10\Bai4Lab10\obj\Debug\netcoreapp3.1\Bai4Lab10.genruntimeconfig.cache

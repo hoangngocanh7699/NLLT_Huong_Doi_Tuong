@@ -1,0 +1,6 @@
+C:\DATA\GIAOTRINH\Lap Trinh Huong Doi Tuong\DTHai\StackQueue\StackQueue\bin\Debug\StackQueue.exe.config
+C:\DATA\GIAOTRINH\Lap Trinh Huong Doi Tuong\DTHai\StackQueue\StackQueue\obj\Debug\StackQueue.csprojResolveAssemblyReference.cache
+C:\DATA\GIAOTRINH\Lap Trinh Huong Doi Tuong\DTHai\StackQueue\StackQueue\bin\Debug\StackQueue.exe
+C:\DATA\GIAOTRINH\Lap Trinh Huong Doi Tuong\DTHai\StackQueue\StackQueue\bin\Debug\StackQueue.pdb
+C:\DATA\GIAOTRINH\Lap Trinh Huong Doi Tuong\DTHai\StackQueue\StackQueue\obj\Debug\StackQueue.exe
+C:\DATA\GIAOTRINH\Lap Trinh Huong Doi Tuong\DTHai\StackQueue\StackQueue\obj\Debug\StackQueue.pdb

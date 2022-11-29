@@ -1,0 +1,13 @@
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\bin\Debug\netcoreapp3.1\Matran.exe
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\bin\Debug\netcoreapp3.1\Matran.deps.json
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\bin\Debug\netcoreapp3.1\Matran.runtimeconfig.json
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\bin\Debug\netcoreapp3.1\Matran.runtimeconfig.dev.json
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\bin\Debug\netcoreapp3.1\Matran.dll
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\bin\Debug\netcoreapp3.1\Matran.pdb
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\obj\Debug\netcoreapp3.1\Matran.csprojAssemblyReference.cache
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\obj\Debug\netcoreapp3.1\Matran.csproj.CoreCompileInputs.cache
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\obj\Debug\netcoreapp3.1\Matran.AssemblyInfoInputs.cache
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\obj\Debug\netcoreapp3.1\Matran.AssemblyInfo.cs
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\obj\Debug\netcoreapp3.1\Matran.dll
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\obj\Debug\netcoreapp3.1\Matran.pdb
+D:\NguyenLiDoiTuong\NhapXuatMaTran\Matran\Matran\obj\Debug\netcoreapp3.1\Matran.genruntimeconfig.cache
